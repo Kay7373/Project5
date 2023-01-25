@@ -3,7 +3,6 @@ package ru.car;
 import static ru.car.Car.count;
 import static ru.car.Car.countCar;
 
-
 public class Main {
     public static void main(String[] args) {
         Car car1 = new Car("type1", 1999);
